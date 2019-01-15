@@ -4,4 +4,5 @@
 
 #controls {
     background-color: rgba(63, 63, 63, 0.8);
+	width:180px;
 }
